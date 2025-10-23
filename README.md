@@ -108,8 +108,6 @@ When a random incoming number is generated, the system checks whether it’s leg
 
 ## 👩‍💻 Developer  
 
-## 👩‍💻 Author
-
 **Kumuda Aggarwal**  
 _MS in Computer Science, New York University
 [LinkedIn](https://www.linkedin.com/in/kumuda-aggarwal/)
