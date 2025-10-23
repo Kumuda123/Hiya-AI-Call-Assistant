@@ -107,7 +107,7 @@ When a random incoming number is generated, the system checks whether it’s leg
   
 ## 💌 Example User Interaction
 
-![example](images/example.png)
+![example](example.png)
 
 ## 👩‍💻 Developer  
 
