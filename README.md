@@ -103,4 +103,14 @@ When a random incoming number is generated, the system checks whether it’s leg
 6. **Command Processing Redesign** — Make the logic scalable and modular by:  
    - Adopting **Natural Language Processing (NLP)** for advanced intent recognition  
    - Moving toward a **microservices-based architecture** for better separation of concerns  
-   - Deploying components on **AWS** for cloud scalability, fault tolerance, and performance  
+   - Deploying components on **AWS** for cloud scalability, fault tolerance, and performance
+  
+
+## 👩‍💻 Developer  
+
+## 👩‍💻 Author
+
+**Kumuda Aggarwal**  
+_MS in Computer Science, New York University
+[LinkedIn](https://www.linkedin.com/in/kumuda-aggarwal/)
+
