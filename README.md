@@ -105,6 +105,9 @@ When a random incoming number is generated, the system checks whether it’s leg
    - Moving toward a **microservices-based architecture** for better separation of concerns  
    - Deploying components on **AWS** for cloud scalability, fault tolerance, and performance
   
+## 💌 Example User Interaction
+
+![example](images/example.png)
 
 ## 👩‍💻 Developer  
 
