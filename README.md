@@ -1,5 +1,4 @@
-# 📞 AI Call Assistant for Hiya — Proof of Concept  
-
+# 📞 AI Call Assistant for Hiya
 ## 🧩 Overview  
 This Java console-based **Proof of Concept (PoC)** demonstrates an **AI Call Assistant** that simulates intelligent call handling through natural language commands.  
 It allows users to manage incoming calls hands-free — answering, rejecting, blocking, forwarding, or scheduling callbacks — as if interacting with a real AI assistant.  
